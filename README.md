@@ -1,5 +1,5 @@
 
-#<img src="https://media1.giphy.com/media/f9Auu2zwYo1XGTsSPg/giphy.gif?cid=ecf05e47tnkhhm9of0gy1c66gntftbo34jm2iv8h5o4tq63e&rid=giphy.gif&ct=s" width="30px> Fertilizer Recommendation for Disease Prediction
+#  🍃Fertilizer Recommendation for Disease Prediction🧑🏽‍🌾
 
 - TECHNOLOGY : Artificial Intelligence
 - TEAM ID : T2022TMID39559PN
