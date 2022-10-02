@@ -2,7 +2,7 @@
 #  🍃Fertilizer Recommendation for Disease Prediction🧑🏽‍🌾
 
 - TECHNOLOGY : Artificial Intelligence
-- TEAM ID : T2022TMID39559PN
+
 
 # 📒 PROJECT DESCRIPTION
 
@@ -13,7 +13,12 @@ In Industry 4.0 has an varioues Technology are updated to an Automated Process w
 We are the young Engineer to revolution in Argiculture turn to into the "Concept of Modern Argiculture"
 
 
-In this project, we are creating a web application which uses a deep learning model, trained on different species of birds, flowers and mammals (2 subclasses in each for a quick understanding)and get the prediction of the bird when an image is been given.
+In this project, we are creating a web application which uses a deep learning model, trained for different types of Friuts and Vegatable Plants leaf Disaese and Recommanding the Fertilizer for the Classified Disease.
+
+Which this web application will given an accuracte result to the Farmers to solving the Disease based problem 🍂
+
+
+![Screenshot 2022-10-02 193836](https://user-images.githubusercontent.com/67773609/193458384-35b24d96-fe6e-4a52-8276-9349c2f1d745.png)
 
 ## 🧑🏻‍🦰 TEAM MEMBERS
 
