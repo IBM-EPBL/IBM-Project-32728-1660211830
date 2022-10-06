@@ -8,7 +8,7 @@
 
 "Argiculture is an BackBone of India"
 
-In Industry 4.0 has an varioues Technology are updated to an Automated Process which are using the Varioues Technology using the Robotics,Innternet of Things(IOT),etc..... This technology will creating the revolution of the Modern Generation.
+In Industry 4.0 has an varioues Technology are updated to an Automated Process which are using the Varioues Technology using the Robotics,Internet of Things(IOT),etc..... This technology will creating the revolution of the Modern Generation.
 
 We are the young Engineer to revolution in Argiculture turn to into the "Concept of Modern Argiculture"
 
