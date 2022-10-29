@@ -1,5 +1,5 @@
 
-#  🍃Fertilizer Recommendation for Disease Prediction🧑🏽‍🌾
+#  
 
 - **TECHNOLOGY :** Artificial Intelligence
 
