@@ -1,5 +1,6 @@
 
-![InShot_20221029_170232331](https://user-images.githubusercontent.com/67773609/198829170-2ad4c912-3aa0-44a8-ba3f-e5b3f359f4b7.gif)
+
+![InShot_20221029_170732868](https://user-images.githubusercontent.com/67773609/198829367-2e585260-a3ce-4e99-b2af-db2f54b567b1.gif)
 
 
 **🌱Introduction :**
