@@ -30,12 +30,7 @@ Which this web application will given an accuracte result to the Farmers to solv
 ![Screenshot 2022-10-02 193836](https://user-images.githubusercontent.com/67773609/193458384-35b24d96-fe6e-4a52-8276-9349c2f1d745.png)
 
 **The Beneficial Users :**
-Farmer
-Common People
-Seller
-Buyer
-Employees
-Industrial People
+Farmer,Common People,Seller,Buyer,Employees,Industrial People
 
 ## 🧑🏻‍🦰 TEAM MEMBERS
 
