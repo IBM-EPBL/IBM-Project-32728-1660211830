@@ -1,7 +1,6 @@
 
-#  
+![InShot_20221029_170232331](https://user-images.githubusercontent.com/67773609/198829170-2ad4c912-3aa0-44a8-ba3f-e5b3f359f4b7.gif)
 
-- **TECHNOLOGY :** Artificial Intelligence
 
 **🌱Introduction :**
 Fertilizer Recommentation system for disease Prediction is a simple ML and DL based website which recommends the best crop to grow, fertilizers to use and the diseases caught by your crops.
