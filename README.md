@@ -1,4 +1,4 @@
-# Fertilizer Recommendation System!
+# Fertilizer Recommendation System for Disease Prediction!
 
 ![InShot_20221029_170732868](https://user-images.githubusercontent.com/67773609/198829367-2e585260-a3ce-4e99-b2af-db2f54b567b1.gif)
 
